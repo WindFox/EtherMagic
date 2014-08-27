@@ -1,0 +1,4 @@
+EtherMagic
+==========
+
+My Minecraft Mod
