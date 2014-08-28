@@ -1,0 +1,12 @@
+eclipse/
+README.txt
+.gradle/
+out/
+CREDITS-fml.txt
+EtherMagic.iml
+EtherMagic.ipr
+EtherMagic.iws
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+forge-*-changelog.txt

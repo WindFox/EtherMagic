@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EtherMagic",
+  "name": "Ether Magic: The Science of Ether Manipulation",
+  "description": "Fancy description incoming!",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WindFox"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
