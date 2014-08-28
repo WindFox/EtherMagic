@@ -8,6 +8,7 @@ import net.minecraftforge.common.config.Configuration;
 import java.io.File;
 
 /**
+ * FML Configuration Handler
  * Created by windfox on 8/27/2014.
  */
 public class ConfigurationHandler {

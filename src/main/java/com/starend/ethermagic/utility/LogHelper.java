@@ -6,6 +6,7 @@ import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
 
 /**
+ * FML Log Helper
  * Created by windfox on 8/27/2014.
  */
 public class LogHelper {

@@ -1,6 +1,5 @@
 package com.starend.ethermagic.client.gui;
 
-import com.starend.ethermagic.EtherMagic;
 import com.starend.ethermagic.handler.ConfigurationHandler;
 import com.starend.ethermagic.reference.Reference;
 import cpw.mods.fml.client.config.GuiConfig;
@@ -9,6 +8,7 @@ import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
 
 /**
+ * New Forge Config GUI
  * Created by windfox on 8/27/2014.
  */
 public class ModGuiConfig extends GuiConfig{

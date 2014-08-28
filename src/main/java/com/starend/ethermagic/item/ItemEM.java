@@ -8,12 +8,13 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
 /**
+ * Master Item Wrapper
  * Created by windfox on 8/27/2014.
  */
 public class ItemEM extends Item{
     public ItemEM(){
         super();
-        //this.maxStackSize = 1;
+        this.maxStackSize = 1;
         //this.setCreativeTab(CreativeTab.EM_TAB);
         //this.setNoRepair();
     }
